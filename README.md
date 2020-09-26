@@ -8,4 +8,4 @@ There are 3 options to execute these commands:
 
 1. Copy the content of the files and past it to a terminal
 2. Make the files executable: ***chmod +x file_name*** then run using ***./file_name***
-3. Run using ***sh file_name***
+3. Run using ***bash file_name***
